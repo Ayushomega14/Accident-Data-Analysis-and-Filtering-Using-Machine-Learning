@@ -151,6 +151,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please contact:
 
-- **Mohit**  
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+	•	Ayush Raj
+	•	Email: ar5787@srmist.edu.in
+	•	GitHub: Ayushomega14
+
+ 	•	Arya Pratap Singh Chauhan
+	•	Email: Arya.pratap.chauhan@gmail.com
+	•	GitHub: ARYA-0
 
