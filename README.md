@@ -16,7 +16,7 @@
 ---
 
 ## Overview
-This project provides a Python utility for filtering and saving CSV datasets based on specified conditions. The script enables data cleaning by removing unwanted rows, filtering specific conditions, and handling outliers using the Interquartile Range (IQR) method. The final filtered data can be saved at a user-defined location via a graphical file dialog.
+This project provides a Python utility for filtering and saving CSV datasets based on specified condition. The script enables data cleaning by removing unwanted rows, filtering specific conditions, and handling outliers using the Interquartile Range (IQR) method. The final filtered data can be saved at a user-defined location via a graphical file dialog.
 
 ---
 
